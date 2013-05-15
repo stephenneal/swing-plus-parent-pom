@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>swing.plus</groupId>
 	<artifactId>swing-plus-parent-pom</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<name>Parent POM</name>
 	<description>Parent POM for Swing Plus projects</description>
 	<packaging>pom</packaging>
@@ -18,7 +18,7 @@
 	<scm>
 		<developerConnection>scm:git:file:///home/monkey/GitHub/swing-plus-parent-pom</developerConnection>
 		<!--developerConnection>scm:git:https://github.com/stephenneal/swing-plus-parent-pom.git</developerConnection-->
-		<tag>swing-plus-parent-pom-0.0.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
