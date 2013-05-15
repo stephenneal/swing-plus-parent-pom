@@ -16,7 +16,7 @@
 		<release.plugin.version>2.4.1</release.plugin.version>
 	</properties>
 	<scm>
-		<developerConnection>file:///home/monkey/GitHub/swing-plus-parent-pom</developerConnection>
+		<developerConnection>scm:git:file:///home/monkey/GitHub/swing-plus-parent-pom</developerConnection>
 		<!--developerConnection>scm:git:https://github.com/stephenneal/swing-plus-parent-pom.git</developerConnection-->
 		<tag>HEAD</tag>
 	</scm>
