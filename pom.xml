@@ -104,6 +104,7 @@
             </plugins>
         </pluginManagement>
 	</build>
+	<!-- Configure default versions for dependencies (child POM's should not declare versions for these) -->
 	<dependencyManagement>
 		<dependencies>
 			<!-- Logging -->
@@ -137,6 +138,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+    <!-- Declare default dependencies-->
 	<dependencies>
 		<!-- Logging -->
 		<dependency>
